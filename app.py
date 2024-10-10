@@ -1,10 +1,23 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import openai
 import os
 
 # Initialize FastAPI app
 app = FastAPI()
+
+# Get port from environment variable, default to 8000 if not set
+port = int(os.getenv('PORT', 8000))
+
+# Configure CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Set your OpenAI API key (replace with your actual API key)
 key = os.getenv('OPEN_AI_KEY')
@@ -63,4 +76,9 @@ async def chat(request: ChatRequest):
     
     except Exception as e:
         return {"error": str(e)}
+
+# Add this at the end of your file
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=port)
 
