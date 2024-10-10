@@ -1,0 +1,75 @@
+Murun Enkhtaivan
+Santa Clara, CA | P: +1 5109848036 |murunen.ds@gmail.com | himurun.com | linkedin.com/in/murun-en/
+
+EDUCATION
+SAN JOSE STATE UNIVERSITY
+Master of Science, Major in Data Science
+CONCORDIA COLLEGE
+Bachelor of Arts, Major in Financial Mathematics
+
+San Jose, CA
+Expected Dec 2025
+Moorhead, MN
+Aug 2016 - May 2020
+
+Programming Languages: Python, R, Java, JavaScript,TypeScript, SQL, HTML, CSS
+Big Data & Machine Learning: Python (e.g. Pycharm, TensorFlow, Scikit-learn, NumPy, pandas, Matplotlib)
+Data Science & Miscellaneous Technologies: A/B Testing, ETL, Data science pipeline (cleansing, wrangling, visualization, modeling,
+interpretation), Statistics, Time series, OOP, Tableau, Looker, Power BI, Excel, Git
+
+PROJECTS
+
+https://www.himurun.com/projects
+
+GOURMET GPT: AI-DRIVEN RECIPE PERSONALIZATION
+May 2024
+● Created a chat-style Personalized Recommender Recipe System by fine-tuning GPT-2 model on custom dataset and
+implemented RAG with Guardrails.
+● Conducted extensive data gathering and requirements specification, processing, and analysis.
+IMAGE CLASSIFICATION WITH CNN MODEL
+Mar 2024
+● Created a Convolutional Neural Network (CNN) model utilizing PyTorch for classification of over 20,000 nature images
+MUNCHKIN MENU RECIPE WEB APPLICATION
+May 2024
+● Developed a full-stack Recipe Database Web Application (MunchkinMenu) with user functionalities, using Java's Spring-Boot
+for the backend, JavaScript's React for the frontend, and integrated with a MySQL database
+
+WORK EXPERIENCE
+MACHINE LEARNING AND COMPLEX SYSTEMS LAB, SJSU
+San Jose, CA
+Research Assistant
+Jan 2024 –Current
+● Applied statistical and machine learning techniques to analyze complex datasets
+● Applied natural language processing (NLP) and machine learning techniques to create a system that understands user
+preferences.
+COMMONBOND
+New York, NY
+Data Analyst
+Mar 2022 – Jul 2022
+● Conducted thorough analysis of historical user data, identifying key trends and preferences; strategically optimized top 3
+marketing channels, resulting in a 10% boost in customer base and revenue growth
+● Executed conversion rate analysis in Python, communicated data-driven recommendations to the executive team, delivering a
+35% reduction in processing time
+● Championed the automation underwriting processes, resulting in a 20% increase in overall application approvals
+INSTACART
+San Francisco, CA
+Business Analyst
+Feb 2021 – Mar 2022
+● Engineered reports using SQL, Excel, and Tableau to analyze sales and business KPIs, providing real-time insights to internal
+stakeholders; optimized data visualization, resulting in a 40% increase in decision-making efficiency
+● Built Periscope dashboards using SQL, diminishing repetitive ad-hoc inquiries by 65%; revolutionized team dynamics and
+decision-making processes by enhancing access to real-time data insights
+● Interacted cross-functionally to make business recommendations, including cost-benefit analysis and forecasting.
+OPPORTUNITY FINANCE NETWORK
+Washington, DC
+Data Analyst
+Jan 2020 – Jan 2021
+● Orchestrated A/B tests across marketing channels, and communicated the finding to managers
+● Orchestrated the deployment of Python automation for database development, enabling seamless manipulation of member
+data and achieving a notable 30-hour time-saving in manual data processing, amplifying workflow efficiency and productivity
+
+ACTIVITIES
+SOCIETY OF WOMEN ENGINEERS
+● Facilitated the Big/Little mentorship program, offering guidance and support to peers; facilitated workshops;
+
+San Jose, CA

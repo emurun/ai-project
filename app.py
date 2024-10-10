@@ -43,7 +43,6 @@ def chat_with_openai(prompt):
     try:
         # Concatenate the resume content with the user prompt
         full_prompt = f"The following is the content of my resume:\n\n{resume_content}\n\nUser question: {prompt}"
-
         # Send the prompt to OpenAI
         response = openai.chat.completions.create(
             model="gpt-3.5-turbo",  # or "gpt-4" if available
