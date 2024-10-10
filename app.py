@@ -7,7 +7,7 @@ import os
 app = FastAPI()
 
 # Set your OpenAI API key (replace with your actual API key)
-key = ''
+key = os.getenv('OPEN_AI_KEY')
 
 openai.api_key = key
 
