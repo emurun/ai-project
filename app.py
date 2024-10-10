@@ -7,8 +7,8 @@ import os
 # Initialize FastAPI app
 app = FastAPI()
 
-# Get port from environment variable, default to 8000 if not set
-port = int(os.getenv('PORT', 8000))
+
+port = 10000
 
 # Configure CORS
 app.add_middleware(
